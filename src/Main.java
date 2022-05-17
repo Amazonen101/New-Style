@@ -5,7 +5,8 @@ public class Main {
             Scanner sc1 = new Scanner(System.in);
             System.out.printf("Hallo Intelij  Hier ist Rike.");
 
-            /*
+
+
             int a = sc1.nextInt();
             int b;
 
@@ -16,6 +17,6 @@ public class Main {
                 System.out.println("Fitz");
             }
             sc1.close();
-            */
+
         }
 }
